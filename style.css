@@ -391,7 +391,7 @@ header nav a {
 
 @media only screen and (max-width: 900px) {
   .grad {
-    height: 100vh;
+    height: 130vh;
     overflow: scroll;
     box-sizing: content-box;
   }
