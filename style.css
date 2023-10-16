@@ -298,6 +298,19 @@ header nav a {
 
 @media only screen and (max-width: 1600px) {
   
+  .JMDGroup {
+
+    font-size: 20px;
+  }
+
+  .SlideHeading {
+    font-size: 60px;
+  }
+
+  .SlideDetails {
+    font-size: 30px;
+  }
+
   .cards {
     height: 330px;
     margin-top: 170px;
